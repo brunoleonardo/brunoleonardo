@@ -8,7 +8,9 @@ Below you will find my main projects
 
 ---
 
-### :man_technologist: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-leonardo-andrade-silva/)
+### :man_technologist: How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-leonardo-andrade-silva/)
 
 ---
 
