@@ -4,7 +4,7 @@
 
 ### Hi, I'm Bruno Leonardo 👋
 
-Below you will find my main projects
+Below you will find some study projects. Any contribution is valid :star_struck: Thanks!!!
 
 ---
 
