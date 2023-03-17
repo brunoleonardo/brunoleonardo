@@ -4,6 +4,8 @@
 
 ### Hi, I'm Bruno Leonardo 👋
 
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
+
 Below you will find some study projects. Any contribution is valid :star_struck: Thanks!!!
 
 ---
