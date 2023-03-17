@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Hi, I'm Bruno Leonardo 👋
+### Hi, I'm Bruno Leonardo <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWExY2E2MmVjNTA0YzYzZWMyMDY2YTcyY2Y3N2RlNzBmYjgwOWJjYyZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 
 
